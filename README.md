@@ -10,6 +10,8 @@
 
 <img src="exemplo-image.png" alt="WebSite Image">
 
+* Link do Projeto [Ir para site](https://paulo-2048.github.io/originsix/)
+
 > Projeto Desenvolvido durante a NLW-Together, promovida pela Rocketseat. O foco durante essa trilha foi nas bases da Web, HTML, CSS e JS
 
 ### Ajustes e melhorias
